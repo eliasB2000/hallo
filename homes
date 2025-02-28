@@ -94,13 +94,7 @@ allNamedHomes:
       z: -1523.449590087599
       pitch: 16.085533
       yaw: -92.19168
-    ne:
-      world: world_nether
-      x: -390.59375411403164
-      y: 45.0
-      z: 325.44044936533305
-      pitch: 17.771608
-      yaw: -91.21619
+
     arena:
       world: arena
       x: -16.400783775035237
